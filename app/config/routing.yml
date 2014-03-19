@@ -1,0 +1,4 @@
+dcm_demo:
+    resource: "@DCMDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+

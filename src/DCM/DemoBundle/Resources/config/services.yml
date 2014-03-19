@@ -1,0 +1,7 @@
+parameters:
+#    dcm_demo.example.class: DCM\DemoBundle\Example
+
+services:
+#    dcm_demo.example:
+#        class: %dcm_demo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

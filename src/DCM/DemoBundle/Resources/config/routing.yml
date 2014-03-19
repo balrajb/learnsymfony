@@ -1,0 +1,7 @@
+dcm_demo_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: DCMDemoBundle:Default:index }
+
+dcm_demo_aboutus:
+    pattern:  /aboutus/{content}
+    defaults: { _controller: DCMDemoBundle:AboutUs:aboutUsText }
